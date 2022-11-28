@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\ALEJANDRA\ESTUDIOS\CURSO UDEMY\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Admin\Documents\ALEJANDRA\ESTUDIOS\CURSO UDEMY\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Admin\Documents\ALEJANDRA\ESTUDIOS\CURSO UDEMY\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ALEJANDRA\ESTUDIOS\CURSO UDEMY\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ALEJANDRA\ESTUDIOS\CURSO UDEMY\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Admin\Documents\ALEJANDRA\ESTUDIOS\CURSO UDEMY\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\Admin\Documents\CURSO UDEMY\CursoUdemy4Capas\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\Admin\Documents\CURSO UDEMY\CursoUdemy4Capas\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Admin\Documents\CURSO UDEMY\CursoUdemy4Capas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CURSO UDEMY\CursoUdemy4Capas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CURSO UDEMY\CursoUdemy4Capas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\Admin\Documents\CURSO UDEMY\CursoUdemy4Capas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
